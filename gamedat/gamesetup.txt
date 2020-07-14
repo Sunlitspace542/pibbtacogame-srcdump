@@ -1,0 +1,1 @@
+Run PibbGame.bat in DOSBox/DFend. It should run like a cheetah.

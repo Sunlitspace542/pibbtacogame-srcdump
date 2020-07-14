@@ -1,0 +1,1 @@
+tacobell temple.wdl -wrs temple.wrs
